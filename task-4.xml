@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<smartphones>
+  <phone>
+    <brand>Samsung</brand>
+    <model>Galaxy S21</model>
+    <release_year>2021</release_year>
+    <price>59000 INR</price>
+    <processor>Exynos 2100</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Apple</brand>
+    <model>iPhone 13 Pro</model>
+    <release_year>2021</release_year>
+    <price>74900.00 INR</price>
+    <processor>Apple A15 Bionic</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>OnePlus</brand>
+    <model>9 Pro</model>
+    <release_year>2021</release_year>
+    <price>55000 INR</price>
+    <processor>Snapdragon 888</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>Xiaomi</brand>
+    <model>Redmi Note 10 Pro</model>
+    <release_year>2021</release_year>
+    <price>17000 INR</price>
+    <processor>Snapdragon 732G</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Google</brand>
+    <model>Pixel 6</model>
+    <release_year>2021</release_year>
+    <price>56000 INR</price>
+    <processor>Tensor</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Realme</brand>
+    <model>GT Neo 2</model>
+    <release_year>2021</release_year>
+    <price>27000 INR</price>
+    <processor>Dimensity 1200</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Motorola</brand>
+    <model>Moto G Power (2021)</model>
+    <release_year>2021</release_year>
+    <price>13000 INR</price>
+    <processor>Snapdragon 662</processor>
+    <storage>64 GB</storage>
+  </phone>
+  <phone>
+    <brand>Huawei</brand>
+    <model>Mate 40 Pro</model>
+    <release_year>2020</release_year>
+    <price>90000 INR</price>
+    <processor>Kirin 9000</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>Sony</brand>
+    <model>Xperia 1 III</model>
+    <release_year>2021</release_year>
+    <price>110000 INR</price>
+    <processor>Snapdragon 888</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>LG</brand>
+    <model>Wing</model>
+    <release_year>2020</release_year>
+    <price>69000 INR</price>
+    <processor>Snapdragon 765G</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Asus</brand>
+    <model>ROG Phone 5</model>
+    <release_year>2021</release_year>
+    <price>49000 INR</price>
+    <processor>Snapdragon 888</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Nokia</brand>
+    <model>8.3 5G</model>
+    <release_year>2020</release_year>
+    <price>46000 INR</price>
+    <processor>Snapdragon 765G</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Lenovo</brand>
+    <model>Legion Phone Duel 2</model>
+    <release_year>2021</release_year>
+    <price>79000 INR</price>
+    <processor>Snapdragon 888</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>BlackBerry</brand>
+    <model>KEY2</model>
+    <release_year>2018</release_year>
+    <price>43000 INR</price>
+    <processor>Snapdragon 660</processor>
+    <storage>64 GB</storage>
+  </phone>
+  <phone>
+    <brand>HTC</brand>
+    <model>U12+</model>
+    <release_year>2018</release_year>
+    <price>65000 INR</price>
+    <processor>Snapdragon 845</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>ZTE</brand>
+    <model>Axon 30 Ultra</model>
+    <release_year>2021</release_year>
+    <price>50000 INR</price>
+    <processor>Snapdragon 888</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>Oppo</brand>
+    <model>Find X3 Pro</model>
+    <release_year>2021</release_year>
+    <price>65000 INR</price>
+    <processor>Snapdragon 888</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>Vivo</brand>
+    <model>X60 Pro+</model>
+    <release_year>2021</release_year>
+    <price>67000 INR</price>
+    <processor>Snapdragon 888</processor>
+    <storage>256 GB</storage>
+  </phone>
+  <phone>
+    <brand>Moto</brand>
+    <model>G100</model>
+    <release_year>2021</release_year>
+    <price>45000 INR</price>
+    <processor>Snapdragon 870</processor>
+    <storage>128 GB</storage>
+  </phone>
+  <phone>
+    <brand>Poco</brand>
+    <model>F3 GT</model>
+    <release_year>2021</release_year>
+    <price>27000 INR</price>
+    <processor>Dimensity 1200</processor>
+    <storage>128 GB</storage>
+  </phone>
+</smartphones>
